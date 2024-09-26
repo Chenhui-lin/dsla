@@ -1,0 +1,34 @@
+Statistics-Probability:
+
+(Learning outcome: You will be able to create and analyze distribution of variables, apply the rules of probability to determine the likelihood of an event, use a sample to infer or draw conclusions about the population from what it is drawn.)
+https://oli.cmu.edu/courses/probability-statistics-open-free/ (comprehensive online course)
+https://www.khanacademy.org/math/statistics-probability (beginner-friendly)
+http://web.stanford.edu/class/cs224n/readings/cs229-prob.pdf (detailed review of the principles of probability theory)
+
+Linear Algebra:
+
+(Learning outcome: You will able to learn about topics like vectors and spaces, Matrix Transformation, Alternate coordinate systems(bases))
+
+https://www.khanacademy.org/math/linear-algebra (beginner-friendly)
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+(The videos allow beginners to begin the linear algebra series with basics)
+https://www.deeplearningbook.org/contents/linear_algebra.html
+(By grasping the concepts of linear algebra, it will be essential for understanding and working with many machine learning algorithms.)
+https://github.com/fastai/numerical-linear-algebra/blob/master/README.md(Computational Linear Algebra Course for coders)
+https://www.coursera.org/specializations/mathematics-machine-learning(Self-paced online course provided by Coursera with flexible schedule)
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm(MIT Linear Algebra course, highly comprehensive)
+
+Calculus:
+
+https://www.khanacademy.org/math/multivariable-calculus (Beginner-friendly)
+https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+(This video series covers important topics of calculus that are required in Data Science.)
+https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/?fbclid=IwAR0LKFiV32uCutWWaDFj2J-be7kbt3S6UvXjYqd3Iml_ofwTHMXE96y4m3U
+(This MIT Single Variable Calculus course covers differentiation and integration of function of functions of one variable, and ends with infinite series.)
+https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
+(This MIT Multivariable Calculus course contains differential, integral and vector calculus for functions of more than one variable.)
+
+Decision Theory:
+
+http://probability.ca/jeff/ftpdir/anjali0.pdf (highly comprehensive)
+https://mitpress.mit.edu/books/introduction-statistical-decision-theory
